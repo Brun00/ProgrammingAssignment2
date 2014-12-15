@@ -1,5 +1,5 @@
 
-## Following two functions creates and stores an inverse of a matrix
+## Two functions that allow to calculate and cache an invert of a matrix
 
 
 ## Creates a list object storing a matrix and it's inverse
